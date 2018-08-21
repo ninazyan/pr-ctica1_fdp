@@ -1,2 +1,2 @@
-# pr-ctica1_fdp
+# Reporte práctica 1 
 primera práctica de programación
